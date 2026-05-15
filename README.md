@@ -156,6 +156,6 @@ Have an AI autonomous cybersecurity agent to add?
 
 **A Curated Collection by [Scanners Box](https://github.com/We5ter/Scanners-Box) · Open Source Forever**
 
-[⭐ Star](https://github.com/We5ter/Project-A3C) · [🍴 Fork](https://github.com/We5ter/Project-A3C/fork) · [📡 Follow](https://github.com/We5ter)
+[⭐ Star Scanners Box](https://github.com/We5ter/Scanners-Box) · [🍴 Fork](https://github.com/We5ter/Project-A3C/fork) · [📡 Follow](https://github.com/We5ter)
 
 </div>
