@@ -4,7 +4,7 @@
 
 # A³C — AI Autonomous Cybersecurity Agent
 
-*The Curated Collection of AI-Powered Autonomous Security Agents*
+*The Curated Collection of AI Autonomous Cybersecurity Agent*
 
 [![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](LICENSE)
