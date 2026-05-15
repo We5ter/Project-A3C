@@ -67,7 +67,7 @@ A³C serves as the **official index & authentication hub** for AI-driven autonom
 
 > Coming soon — AI agents for automated defense, detection, and response
 
-_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20Blue%20Team%20Submission)!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -75,7 +75,7 @@ _🚧 This category is under curation. [Submit a project](mailto:a3c-security@pr
 
 > Coming soon — AI-driven Security Operations Center agents
 
-_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20SOC%20Submission)!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -83,7 +83,7 @@ _🚧 This category is under curation. [Submit a project](mailto:a3c-security@pr
 
 > Coming soon — AI-powered security operations assistants
 
-_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20DevSecOps%20Submission)!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -91,7 +91,7 @@ _🚧 This category is under curation. [Submit a project](mailto:a3c-security@pr
 
 > Coming soon — AI-driven threat attribution tools
 
-_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20Attribution%20Submission)!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -99,7 +99,7 @@ _🚧 This category is under curation. [Submit a project](mailto:a3c-security@pr
 
 > Coming soon — AI agents for enterprise office network security
 
-_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20Office%20Security%20Submission)!_
+_🚧 This category is under curation. [Submit a project](https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name])!_
 
 ---
 
@@ -147,7 +147,7 @@ A³C is part of the **[Scanners Box](https://github.com/We5ter/Scanners-Box)** e
 Have an AI autonomous cybersecurity agent to add?
 
 <p align="center">
-  <sub>📌 <a href="mailto:a3c-security@proton.me?subject=A%C2%B3C%20Project%20Submission"><b>Submit your project</b></a> · Star this repo · <a href="https://github.com/We5ter/Scanners-Box"><b>Visit Scanners Box</b></a></sub>
+  <sub>📌 <a href="https://github.com/We5ter/Project-A3C/issues/new?title=A%C2%B3C%20Submission:%20[Your%20Project%20Name]"><b>Submit your project</b></a> · Star this repo · <a href="https://github.com/We5ter/Scanners-Box"><b>Visit Scanners Box</b></a></sub>
 </p>
 
 ---
