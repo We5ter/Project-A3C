@@ -107,8 +107,24 @@ _🚧 This category is under curation. [Submit a project](mailto:a3c-security@pr
 
 Projects that meet A³C standards may display the **authenticated badge** in their README:
 
+### Option 1 — Image (recommended for project header)
+
 ```markdown
-![A³C Authenticated](https://github.com/We5ter/Project-A3C/raw/main/A3C.png)
+<img src="https://github.com/We5ter/Project-A3C/raw/main/A3C.png" alt="A³C Authenticated" width="280px">
+```
+
+### Option 2 — Markdown image with link
+
+```markdown
+<a href="https://github.com/We5ter/Project-A3C">
+  <img src="https://github.com/We5ter/Project-A3C/raw/main/A3C.png" alt="A³C Authenticated" width="280px">
+</a>
+```
+
+### Option 3 — Shields.io dynamic badge
+
+```markdown
+[![A³C Authenticated](https://img.shields.io/badge/A%C2%B3C-Authenticated-6366f1?style=for-the-badge&logo=github)](https://github.com/We5ter/Project-A3C)
 ```
 
 The badge signifies that the project has been:
