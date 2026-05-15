@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./A3C.png" alt="A³C — AI Autonomous Cybersecurity Agent" width="600px">
+<img src="./A3C.png" alt="A³C — AI Autonomous Cybersecurity Agent Collection" width="600px">
 
 # A³C — AI Autonomous Cybersecurity Agent
 
-*The Next Generation of AI-Powered Offensive & Defensive Security Agents*
+*The Curated Collection of AI-Powered Autonomous Security Agents*
 
-[![Status: Planning](https://img.shields.io/badge/Status-Planning-indigo?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
+[![Status: Active](https://img.shields.io/badge/Status-Active-success?style=flat-square&logo=github)](https://github.com/We5ter/Project-A3C)
 [![License: MIT](https://img.shields.io/badge/License-MIT-6366f1?style=flat-square)](LICENSE)
-[![Type: Open Source](https://img.shields.io/badge/Type-Open_Source-6366f1?style=flat-square&logo=opensourceinitiative)](https://github.com/We5ter/Project-A3C)
+[![Type: Collection](https://img.shields.io/badge/Type-Collection-6366f1?style=flat-square)](https://github.com/We5ter/Project-A3C)
 
 </div>
 
@@ -16,24 +16,24 @@
 
 ## Overview
 
-> 🚀 **A³C** is an open-source project dedicated to building **fully autonomous AI cybersecurity agents** that can independently execute penetration testing, vulnerability assessment, threat hunting, and incident response.
+> 🚀 **A³C** is a **curated collection** of open-source projects that build **fully autonomous AI cybersecurity agents** — tools that can independently execute penetration testing, vulnerability assessment, threat hunting, and incident response.
 
-A³C leverages cutting-edge Large Language Models (LLMs) and multi-agent orchestration to create a new paradigm for security operations — where **AI agents autonomously plan, execute, and adapt** across the entire attack and defense lifecycle.
+A³C serves as the **official index & authentication hub** for AI-driven autonomous security agents. Projects displaying the **A³C badge** are vetted and recommended by [Scanners Box](https://github.com/We5ter/Scanners-Box) as trusted tools in this emerging field.
 
-## Capabilities
+## Categories
 
-| Capability | Description |
-|:-----------|:------------|
+| Category | Description |
+|:---------|:------------|
 | 🔴 **AI Autonomous Red Team** | AI agents that autonomously plan and execute attack chains |
 | 🔵 **AI Autonomous Blue Team** | AI agents for automated defense, detection, and response |
-| 🛡️ **AI SOC Agents** | AI-driven Security Operations Center for automated monitoring, alerting & incident response |
-| 🎧 **AI DevSecOps Assistant** | AI-powered security operations assistant for intelligent Q&A, triage & guidance |
-| 🔍 **AI Cyber Attacks Attribution** | AI-driven intrusion forensics and threat attribution for rapid incident analysis |
-| 💼 **AI Office Network Security** | AI agents for enterprise office network security, DLP & insider threat prevention |
+| 🛡️ **AI SOC Agents** | AI-driven Security Operations Center for monitoring, alerting & response |
+| 🎧 **AI DevSecOps Assistant** | AI-powered security operations assistant for Q&A, triage & guidance |
+| 🔍 **AI Cyber Attacks Attribution** | AI-driven intrusion forensics and threat attribution |
+| 💼 **AI Office Network Security** | AI agents for enterprise office network security & DLP |
 
-## AI Autonomous Red Team
+## 🔴 AI Autonomous Red Team
 
-> 🔴 AI agents that autonomously plan and execute attack chains — **A³C Authenticated Projects**
+> AI agents that autonomously plan and execute attack chains — **A³C Authenticated Projects**
 
 | Project | Description | Language | Stars | License |
 |:--------|:------------|:---------|:------|:--------|
@@ -61,36 +61,60 @@ A³C leverages cutting-edge Large Language Models (LLMs) and multi-agent orchest
 
 </details>
 
-## Architecture
+---
 
+## 🔵 AI Autonomous Blue Team
+
+> Coming soon — AI agents for automated defense, detection, and response
+
+_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20Blue%20Team%20Submission)!_
+
+---
+
+## 🛡️ AI SOC Agents
+
+> Coming soon — AI-driven Security Operations Center agents
+
+_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20SOC%20Submission)!_
+
+---
+
+## 🎧 AI DevSecOps Assistant
+
+> Coming soon — AI-powered security operations assistants
+
+_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20DevSecOps%20Submission)!_
+
+---
+
+## 🔍 AI Cyber Attacks Attribution
+
+> Coming soon — AI-driven threat attribution tools
+
+_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20Attribution%20Submission)!_
+
+---
+
+## 💼 AI Office Network Security
+
+> Coming soon — AI agents for enterprise office network security
+
+_🚧 This category is under curation. [Submit a project](mailto:a3c-security@proton.me?subject=A%C2%B3C%20Office%20Security%20Submission)!_
+
+---
+
+## A³C Badge
+
+Projects that meet A³C standards may display the **authenticated badge** in their README:
+
+```markdown
+![A³C Authenticated](https://github.com/We5ter/Project-A3C/raw/main/A3C.png)
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    A³C Core Engine                          │
-│  ┌──────────┐  ┌──────────┐  ┌──────────────────────────┐   │
-│  │ LLM      │  │ Agent    │  │ Tool & Scanner           │   │
-│  │ Reasoning│  │ Orchest. │  │ Integration Layer        │   │
-│  │ Engine   │  │ Layer    │  │ (Scanners Box)           │   │
-│  └────┬─────┘  └────┬─────┘  └────────────┬────────────┘   │
-│       │              │                      │               │
-│  ┌────▼──────────────▼──────────────────────▼────────────┐  │
-│  │                  A³C Agent Workspace                   │  │
-│  │  ┌─────────┐ ┌─────────┐ ┌──────┐ ┌──────────────┐  │  │
-│  │  │ Red Team│ │Blue Team│ │ SOC  │ │ DevSecOps    │  │  │
-│  │  │ Agent   │ │ Agent   │ │Agent │ │ Assistant    │  │  │
-│  │  └─────────┘ └─────────┘ └──────┘ └──────────────┘  │  │
-│  └──────────────────────────────────────────────────────┘  │
-└─────────────────────────────────────────────────────────────┘
-```
 
-## Roadmap
-
-| Phase | Status | Milestones |
-|:------|:-------|:-----------|
-| **Phase 1** | 🔴 Planning | Architecture design, LLM evaluation framework |
-| **Phase 2** | ⏳ Upcoming | AI Autonomous Red Team agent prototype |
-| **Phase 3** | ⏳ Upcoming | AI Autonomous Blue Team & SOC agents |
-| **Phase 4** | ⏳ Upcoming | Multi-agent orchestration & tool integration |
-| **Phase 5** | ⏳ Upcoming | Full A³C platform release |
+The badge signifies that the project has been:
+- ✅ Vetted by the Scanners Box community
+- ✅ Confirmed as an active, open-source AI autonomous security agent
+- ✅ Recommended as a trusted tool in its category
 
 ## Powered by Scanners Box
 
@@ -100,21 +124,21 @@ A³C leverages cutting-edge Large Language Models (LLMs) and multi-agent orchest
   </a>
 </p>
 
-A³C is part of the **[Scanners Box](https://github.com/We5ter/Scanners-Box)** ecosystem — the curated collection of **9,000+ ⭐ open-source cybersecurity tools**. A³C agents integrate seamlessly with scanners from Scanners Box to enable end-to-end autonomous security operations.
+A³C is part of the **[Scanners Box](https://github.com/We5ter/Scanners-Box)** ecosystem — the curated collection of **9,000+ ⭐ open-source cybersecurity tools**. A³C extracts and highlights the most cutting-edge **AI autonomous agent** projects from Scanners Box into a focused, dedicated collection.
 
-## Collaboration
+## Submit a Project
 
-We welcome collaboration from the cybersecurity and AI communities!
+Have an AI autonomous cybersecurity agent to add?
 
 <p align="center">
-  <sub>📌 Star this repo · <a href="mailto:a3c-security@proton.me?subject=A%C2%B3C%20Collaboration"><b>Contact us to collaborate</b></a> · <a href="https://github.com/We5ter/Scanners-Box"><b>Visit Scanners Box</b></a></sub>
+  <sub>📌 <a href="mailto:a3c-security@proton.me?subject=A%C2%B3C%20Project%20Submission"><b>Submit your project</b></a> · Star this repo · <a href="https://github.com/We5ter/Scanners-Box"><b>Visit Scanners Box</b></a></sub>
 </p>
 
 ---
 
 <div align="center">
 
-**Built with 🔥 by the community · Open Source Forever**
+**A Curated Collection by [Scanners Box](https://github.com/We5ter/Scanners-Box) · Open Source Forever**
 
 [⭐ Star](https://github.com/We5ter/Project-A3C) · [🍴 Fork](https://github.com/We5ter/Project-A3C/fork) · [📡 Follow](https://github.com/We5ter)
 
